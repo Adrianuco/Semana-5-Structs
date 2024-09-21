@@ -1,0 +1,7 @@
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\I Corte\05. Adriano Almanza, Juan Castellón - Ejercicios Registros\EjercicioRegistro9\EjercicioRegistro9\bin\Debug\EjercicioRegistro9.exe.config
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\I Corte\05. Adriano Almanza, Juan Castellón - Ejercicios Registros\EjercicioRegistro9\EjercicioRegistro9\bin\Debug\EjercicioRegistro9.exe
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\I Corte\05. Adriano Almanza, Juan Castellón - Ejercicios Registros\EjercicioRegistro9\EjercicioRegistro9\bin\Debug\EjercicioRegistro9.pdb
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\I Corte\05. Adriano Almanza, Juan Castellón - Ejercicios Registros\EjercicioRegistro9\EjercicioRegistro9\obj\Debug\EjercicioRegistro9.csproj.AssemblyReference.cache
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\I Corte\05. Adriano Almanza, Juan Castellón - Ejercicios Registros\EjercicioRegistro9\EjercicioRegistro9\obj\Debug\EjercicioRegistro9.csproj.CoreCompileInputs.cache
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\I Corte\05. Adriano Almanza, Juan Castellón - Ejercicios Registros\EjercicioRegistro9\EjercicioRegistro9\obj\Debug\EjercicioRegistro9.exe
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\I Corte\05. Adriano Almanza, Juan Castellón - Ejercicios Registros\EjercicioRegistro9\EjercicioRegistro9\obj\Debug\EjercicioRegistro9.pdb
